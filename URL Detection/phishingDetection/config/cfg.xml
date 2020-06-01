@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<url>
+     <frame  width="800"  height="532" padding="16" windowSize="7" >
+       <layer  className="ui.LayerBackGround" x="0" y="0" w="0" h="0" />
+       <layer  className="ui.LayerBlack" x="80" y="370" w="350" h="20" />
+       <layer  className="ui.LayerWhite" x="80" y="420" w="350" h="20" />
+       <layer  className="ui.LayerText" x="40" y="470" w="720" h="20" />
+       </frame>
+</url>
